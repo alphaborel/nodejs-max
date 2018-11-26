@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/alphaborel/nodejs-max/issues"
   },
-  "homepage": "https://github.com/alphaborel/nodejs-max#readme"
+  "homepage": "https://github.com/alphaborel/nodejs-max#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
